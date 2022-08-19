@@ -5,7 +5,7 @@ This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile 
 
 ### App Walk-though
 
-<img src="https://media2.giphy.com/media/4SJdMaA4E4iI0BBn9C/giphy.gif?cid=790b7611e816d39f4c40346b44d801b0bd47bee67cd93231&rid=giphy.gif&ct=g" width=200><br>
+<img src="https://im3.ezgif.com/tmp/ezgif-3-104802edaa.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
